@@ -1,0 +1,42 @@
+{
+    "Humans":
+    {
+        "Description": "Humans are the youngest race to have come into existence, and also have the shortest lifespan out of every other race. Although they are the shortest living of all of the races in Enphonia, only living to around 80, they also have a nigh-limitless potential and have the opportunity to grow the fastest."
+    },
+    "Felines":
+    {
+        "Description": "Felines are a race of \"cat people\" They can look very similar to humans, with the striking difference being the cat ears on top their heads and their cat tails. Other felines can look a lot more like cats, though, sometimes having a full fur body. Felines are particularly known for their fast casting times, sometimes being able to shoot out magic instantly."
+    },
+    "Lupus":
+    {
+        "Description": "Lupus are very similar to Felines in that they also have the characteristic of being all fur or having dog tails and ears. The Lupus make the distinction between their Feline counterpart with their stronger magic power."
+    },
+    "Ursidae":
+    {
+        "Description": "The Ursidae are a race that have bear features. Most, if not all Ursidae are very furry creatures, and are pretty big compared to the other races. Ursidae have very good endurance and magic resistance."
+    },
+    "Aegir":
+    {
+        "Description": "Aegir is a race of people with sea creature like features. There are many subraces from the octopi to the sharks. They are the only race that can breathe in water and are especially proficient in water based magic."
+    },
+    "Avenio":
+    {
+        "Description": "Avenios are bird people that have wings instead of arms and talons instead of feet. They are particularly known for being able to fly and their proficiency in wind based magic."
+    },
+    "Elves":
+    {
+        "Description": "Elves are just like humans but the difference is they have pointier ears and are either blonde or have white hair. Elves are way more in tune with mana, and as such have larger mana pool than the other races. They can also communicate with magical beasts."
+    },
+    "Lizarus":
+    {
+        "Description": "The Lizarus are a group of lizard folk. They are very scaley but also humanoid creatures. They are like the ursidae in that they are very durable and magic resistant, but they can also absorb a little bit of magic inside their scales to shoot it out later."
+    },
+    "Hellige":
+    {
+        "Description": "They are very similar to humans but have a floating, glowing \"halo\" above their heads and have feathery like wings on their backs. They seem to get a piercing headache if they wear anything on their heads. They are very proficient in support type magic. They will definitely correct you if you pronounce the name of the race with an H sound, as the H is silent. Interestingly, if they kill another of their race, their halo and wings turn black and stop glowing."
+    },
+    "Diablo":
+    {
+        "Description": "The main characteristics of the Diablo race is the horns on the side of their head pointing upwards, the bat-like wings on their backs, and their long, pointy tails. Their race is the most discriminated against out of all of the races, for reasons currently unknown, but there are still some of them that safely walk the streets. They are very proficient in the \"darker\" type of magic. Whatever that entails."
+    }
+}
